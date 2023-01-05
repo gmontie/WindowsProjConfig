@@ -1,0 +1,16 @@
+C:\Users\gmontgomery\Documents\P_UDIT\tools\Diagnostics\VerticalLabel\bin\Debug\VerticalLabel.dll
+C:\Users\gmontgomery\Documents\P_UDIT\tools\Diagnostics\VerticalLabel\bin\Debug\VerticalLabel.pdb
+C:\Users\gmontgomery\Documents\P_UDIT\tools\Diagnostics\VerticalLabel\obj\Debug\VerticalLabel.csprojResolveAssemblyReference.cache
+C:\Users\gmontgomery\Documents\P_UDIT\tools\Diagnostics\VerticalLabel\obj\Debug\VerticalLabel.dll
+C:\Users\gmontgomery\Documents\P_UDIT\tools\Diagnostics\VerticalLabel\obj\Debug\VerticalLabel.pdb
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\P_UDIT\tools\Diagnostics\VerticalLabel\bin\Debug\VerticalLabel.dll
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\P_UDIT\tools\Diagnostics\VerticalLabel\bin\Debug\VerticalLabel.pdb
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\P_UDIT\tools\Diagnostics\VerticalLabel\obj\Debug\VerticalLabel.csprojResolveAssemblyReference.cache
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\P_UDIT\tools\Diagnostics\VerticalLabel\obj\Debug\VerticalLabel.dll
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\P_UDIT\tools\Diagnostics\VerticalLabel\obj\Debug\VerticalLabel.pdb
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\Gerneral\VerticalLabel\bin\Debug\VerticalLabel.dll
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\Gerneral\VerticalLabel\bin\Debug\VerticalLabel.pdb
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\Gerneral\Reference\VerticalLabel.dll
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\Gerneral\Reference\VerticalLabel.pdb
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\Gerneral\VerticalLabel\obj\Debug\VerticalLabel.dll
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\Gerneral\VerticalLabel\obj\Debug\VerticalLabel.pdb

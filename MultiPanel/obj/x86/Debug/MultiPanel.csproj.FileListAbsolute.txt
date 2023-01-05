@@ -1,0 +1,24 @@
+C:\Users\gmontgomery\Documents\Visual Studio 2013\Projects\SCS_App\Reference\MultiPanel.dll
+C:\Users\gmontgomery\Documents\Visual Studio 2013\Projects\SCS_App\Reference\MultiPanel.pdb
+C:\Users\gmontgomery\Documents\Visual Studio 2013\Projects\SCS_App\MultiPanel\obj\x86\Debug\MultiPanel.Display.resources
+C:\Users\gmontgomery\Documents\Visual Studio 2013\Projects\SCS_App\MultiPanel\obj\x86\Debug\MultiPanel.DisplayCollection.resources
+C:\Users\gmontgomery\Documents\Visual Studio 2013\Projects\SCS_App\MultiPanel\obj\x86\Debug\MultiPanel.DisplayGroup.resources
+C:\Users\gmontgomery\Documents\Visual Studio 2013\Projects\SCS_App\MultiPanel\obj\x86\Debug\MultiPanel.csproj.GenerateResource.Cache
+C:\Users\gmontgomery\Documents\Visual Studio 2013\Projects\SCS_App\MultiPanel\obj\x86\Debug\MultiPanel.dll
+C:\Users\gmontgomery\Documents\Visual Studio 2013\Projects\SCS_App\MultiPanel\obj\x86\Debug\MultiPanel.pdb
+C:\Users\Gregory Montgomery\documents\visual studio 2013\Projects\Gerneral\Reference\MultiPanel.dll
+C:\Users\Gregory Montgomery\documents\visual studio 2013\Projects\Gerneral\Reference\MultiPanel.pdb
+C:\Users\Gregory Montgomery\documents\visual studio 2013\Projects\Gerneral\MultiPanel\obj\x86\Debug\MultiPanel.Display.resources
+C:\Users\Gregory Montgomery\documents\visual studio 2013\Projects\Gerneral\MultiPanel\obj\x86\Debug\MultiPanel.DisplayCollection.resources
+C:\Users\Gregory Montgomery\documents\visual studio 2013\Projects\Gerneral\MultiPanel\obj\x86\Debug\MultiPanel.DisplayGroup.resources
+C:\Users\Gregory Montgomery\documents\visual studio 2013\Projects\Gerneral\MultiPanel\obj\x86\Debug\MultiPanel.csproj.GenerateResource.Cache
+C:\Users\Gregory Montgomery\documents\visual studio 2013\Projects\Gerneral\MultiPanel\obj\x86\Debug\MultiPanel.dll
+C:\Users\Gregory Montgomery\documents\visual studio 2013\Projects\Gerneral\MultiPanel\obj\x86\Debug\MultiPanel.pdb
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\ProjectConfigurator\Reference\MultiPanel.dll
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\ProjectConfigurator\Reference\MultiPanel.pdb
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\ProjectConfigurator\TestConfig\MultiPanel\obj\x86\Debug\MultiPanel.Display.resources
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\ProjectConfigurator\TestConfig\MultiPanel\obj\x86\Debug\MultiPanel.DisplayCollection.resources
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\ProjectConfigurator\TestConfig\MultiPanel\obj\x86\Debug\MultiPanel.DisplayGroup.resources
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\ProjectConfigurator\TestConfig\MultiPanel\obj\x86\Debug\MultiPanel.csproj.GenerateResource.Cache
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\ProjectConfigurator\TestConfig\MultiPanel\obj\x86\Debug\MultiPanel.dll
+C:\Users\Gregory Montgomery\Documents\Visual Studio 2013\Projects\ProjectConfigurator\TestConfig\MultiPanel\obj\x86\Debug\MultiPanel.pdb
